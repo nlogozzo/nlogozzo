@@ -6,7 +6,7 @@
 My name is Nick and I am an undergraduate computer science student studying at Stony Brook University.
 
 # 🔭 I’m currently working on ...
-  - C# and .NET 7 applications
+  - C# and .NET 8 applications
       - For Linux with gir.core (GTK)
       - For Windows with WindowsAppSDK (WinUI 3) 
   
