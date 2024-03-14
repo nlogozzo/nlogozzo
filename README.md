@@ -7,6 +7,8 @@ My name is Nick and I am an undergraduate computer science student studying at S
 
 Founder and lead developer of Nickvision apps!
 
+[Resume](Resume.pdf)
+
 # 🔭 I’m currently working on ...
 - Desktop applications with C++
     - GNOME (Linux) platform with Gtk 4 and libadwaita
