@@ -1,5 +1,5 @@
-![OS](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=Windows)
-![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-informational?style=flat&logo=VisualStudio)
+![OS](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-informational?style=flat&logo=VisualStudioCode)
 ![Lang](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=CPlusPlus)
 
 # Hi there 👋
