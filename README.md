@@ -3,7 +3,7 @@
 ![Lang](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=CPlusPlus)
 
 # Hi there 👋
-My name is Nick and I am an undergraduate computer science student studying at Stony Brook University.
+My name is Nick and I am computer science graduate from Stony Brook University.
 
 Founder and lead developer of Nickvision apps!
 
